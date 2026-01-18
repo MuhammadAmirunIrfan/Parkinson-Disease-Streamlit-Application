@@ -1,17 +1,6 @@
-# Requirements for Parkinson's Disease Detection Streamlit App
-# Install using: pip install -r requirements.txt
-
-# Core libraries
-pandas==2.1.4
-numpy==1.26.2
-scikit-learn==1.3.2
-joblib==1.3.2
-
-# Streamlit
-streamlit==1.29.0
-
-# Visualization
-plotly==5.18.0
-
-# Note: When deploying to Streamlit Cloud, these versions may need adjustment
-# based on Python version compatibility
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+plotly

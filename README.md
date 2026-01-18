@@ -1,15 +1,15 @@
-# 🧠 Parkinson's Disease Detection System
+# Parkinson's Disease Detection System
 
 A Streamlit web application for early detection of Parkinson's disease using machine learning analysis of voice measurements.
 
-## 📋 Project Information
+## Project Information
 
 - **Course**: SECB3203 Bioinformatics 2
 - **Semester**: SEM 1 2025/2026
 - **Section**: 02
 - **Lecturer**: Dr. Seah Choon Sen
 
-## 👥 Group Members
+## Group Members
 
 | Name | Matric Number |
 |------|---------------|
@@ -17,7 +17,7 @@ A Streamlit web application for early detection of Parkinson's disease using mac
 | Muhammad Hafiz bin Mohd Shaharuddin | A23CS0130 |
 | Muhammad Zafril Ihsan bin Mohamad Nasir | A23CS0304 |
 
-## 🎯 Project Overview
+## Project Overview
 
 This application extends the previous SECB3203 project (Parkinson's Disease Classification) into a deployable web application using Streamlit. The app allows users to:
 
@@ -27,7 +27,7 @@ This application extends the previous SECB3203 project (Parkinson's Disease Clas
 4. Explore the training dataset
 5. Learn about the features and methodology
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 parkinson_app/
@@ -45,7 +45,7 @@ parkinson_app/
 └── sample_data.pkl         # Sample data for testing
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Local Development
 
@@ -96,7 +96,7 @@ parkinson_app/
    - Make sure all .pkl files are committed to the repository
    - Or include `train_model.py` and set it to run before `app.py`
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -106,7 +106,7 @@ parkinson_app/
 | F1-Score | 94.92% |
 | AUC-ROC | 0.9862 |
 
-## 🔬 Features Used
+## Features Used
 
 The model analyzes 22 voice measurement features:
 
@@ -142,15 +142,16 @@ The model analyzes 22 voice measurement features:
 - D2 - Correlation dimension
 - PPE - Pitch period entropy
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This application is intended for **educational and research purposes only**. It should not be used as a substitute for professional medical diagnosis. If you have concerns about Parkinson's disease, please consult a qualified healthcare professional.
 
-## 📖 References
+## References
 
-1. **Dataset**: UCI Machine Learning Repository - Parkinson's Disease Dataset
+1. **Dataset**: Kaggle - Parkinson's Disease Detection Dataset
+   - https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
 2. **Original Paper**: Little MA, McSharry PE, Hunter EJ, Spielman J, Ramig LO. "Suitability of dysphonia measurements for telemonitoring of Parkinson's disease." IEEE Trans Biomed Eng. 2009;56(4):1015-22.
 
-## 📝 License
+## License
 
 This project is created for educational purposes as part of SECB3203 course requirements at Universiti Teknologi Malaysia.

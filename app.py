@@ -746,7 +746,7 @@ elif page == "About":
     ## Course Information
     
     - **Course**: SECB3203 Bioinformatics 2
-    - **Section**: 02
+    - **Section**: 01
     - **Semester**: 1 2025/2026
     - **Lecturer**: Ts. Dr. Chan Weng Howe
     - **Institution**: Faculty of Computing, UTM

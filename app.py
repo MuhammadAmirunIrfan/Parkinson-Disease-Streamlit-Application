@@ -497,7 +497,7 @@ elif page == "Model Performance":
             identified {tp} out of {tp+fn} Parkinson's cases.
             
             High recall is crucial in medical diagnosis to minimize 
-            missed cases!
+            missed cases.
             """)
         
         st.markdown("---")

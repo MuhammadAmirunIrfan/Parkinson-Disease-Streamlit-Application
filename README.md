@@ -1,13 +1,14 @@
 # Parkinson's Disease Detection System
 
 A Streamlit web application for early detection of Parkinson's disease using machine learning analysis of voice measurements.
+Link to streamlit application: https://parkinson-disease-app-application-5gvrjavfytfqwwnqetkw3e.streamlit.app
 
 ## Project Information
 
-- **Course**: SECB3203 Bioinformatics 2
+- **Course**: SECB3103 Bioinformatics 2
 - **Semester**: SEM 1 2025/2026
-- **Section**: 02
-- **Lecturer**: Dr. Seah Choon Sen
+- **Section**: 01
+- **Lecturer**: Ts. Dr Chan Weng Howe
 
 ## Group Members
 
@@ -154,4 +155,4 @@ This application is intended for **educational and research purposes only**. It 
 
 ## License
 
-This project is created for educational purposes as part of SECB3203 course requirements at Universiti Teknologi Malaysia.
+This project is created for educational purposes as part of SECB3103 course requirements at Universiti Teknologi Malaysia.
